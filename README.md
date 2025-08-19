@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<p align="left">- 👋 Hi, I’m João Pinto, I'm 20 years old<br>- 🏠 Currently living in Braga, Portugal<br>- 👀 I’m interested in motorbikes and cars a lot<br>- 🌱 I’m currently studying computer engineering in University of Minho <br>- 📫 How to reach me: joaopedrolpinto@gmail.com</p>
+<p align="left">- 👋 Hi, I’m João Pinto, I'm 21 years old<br>- 🏠 Currently living in Braga, Portugal<br>- 👀 I’m interested in motorbikes and cars a lot<br>- 🌱 I’m currently studying computer engineering in University of Minho <br>- 📫 How to reach me: joaopedrolpinto@gmail.com</p>
 
 ###
 
