@@ -49,9 +49,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=a104270&show_icons=true&theme=gruvbox_light" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a104270&theme=gruvbox_light" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a104270&layout=compact&theme=gruvbox_light" height="120" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jpedrolpinto&show_icons=true&theme=gruvbox_light" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jpedrolpinto&theme=gruvbox_light" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpedrolpinto&layout=compact&theme=gruvbox_light" height="120" />
 </div>
 
 ###
